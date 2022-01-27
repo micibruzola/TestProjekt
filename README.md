@@ -1,2 +1,2 @@
 # ProjectRepo
-This is my repository for projects
+This is my first public repo for studying purposes
